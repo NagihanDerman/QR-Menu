@@ -1,0 +1,9 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+.fs-1{
+    color: rgb(41, 39, 39);
+   }
